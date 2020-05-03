@@ -1,2 +1,4 @@
 # POO
 classe guitarra
+
+Verificar
